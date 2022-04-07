@@ -1,0 +1,23 @@
+commit 8b58e33a5b5e2c5592a90c90895d23d5583e1ccb
+Author: Andres Sevillano <andres.sevillano.net@gmail.com>
+Date:   Thu Apr 7 15:42:59 2022 -0500
+
+    Agregado logo de twitter y link css en index, insertado logo de twitter en carpeta images, editado los estilos en style.css
+
+commit a81de0cf0dc11cc5680f77842ce9b4f9dea16c49
+Author: Andres Sevillano <andres.sevillano.net@gmail.com>
+Date:   Thu Apr 7 15:32:24 2022 -0500
+
+    Inicio del proyecto
+
+commit 601450c39cfbaa639c5293c9643bdb492d846eae
+Author: Andres Sevillano <andres.sevillano.net@gmail.com>
+Date:   Wed Apr 6 22:18:13 2022 -0500
+
+    second commit
+
+commit 4aae6484c46a15fb05708e42fa873a66ac3e376d
+Author: Andres Sevillano <andres.sevillano.net@gmail.com>
+Date:   Wed Apr 6 21:58:52 2022 -0500
+
+    first commit

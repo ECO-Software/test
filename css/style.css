@@ -7,3 +7,13 @@ img{
     width: 100px;
     height: 100px;
 }
+
+iframe{
+    border: green 2px dotted;
+    padding: 1rem;
+    margin: 1rem;
+}
+iframe:hover{
+    border: red 2px solid;
+}
+

@@ -11,6 +11,7 @@ h1{
     padding: 0.5em;
     letter-spacing: 5px;
     font-weight: 300;
+    margin-top: 1rem;
 }
 
 span{
@@ -37,3 +38,22 @@ iframe:hover{
     border: red 2px solid;
 }
 
+.link{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 1.2em;
+}
+
+.image-github{
+    width: 270px;
+    height: 200px;
+}
+
+.phrase{
+    display: inline-flex;
+}
+
+.phrase p{
+    margin-top: 2rem;
+    font-size: 1.5em;
+}

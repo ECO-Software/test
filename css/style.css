@@ -1,9 +1,9 @@
-*{
+* {
     margin: 0 auto;
     padding: 0;
 }
 
-h1{
+h1 {
     text-align: center;
     font-size: 2em;
     color: #fff;
@@ -14,50 +14,97 @@ h1{
     margin-top: 1rem;
 }
 
-span{
+span {
     color: #7925e1;
     letter-spacing: 2px;
     margin-left: 1.2rem;
 }
 
-span:hover{
+span:hover {
     color: #0703fd;
 }
 
-img{
+img {
     width: 100px;
     height: 100px;
 }
 
-iframe{
+iframe {
     border: green 2px dotted;
     padding: 1rem;
     margin: 1rem;
 }
-iframe:hover{
+
+iframe:hover {
     border: red 2px solid;
 }
 
-.link{
+.link {
     margin-top: 1rem;
     margin-left: 1rem;
     font-size: 1.2em;
 }
 
-.image-github{
+.image-github {
     width: 270px;
     height: 200px;
 }
 
-.phrase{
+.phrase {
     display: inline-flex;
 }
 
-.phrase p{
+.phrase p {
     margin-top: 2rem;
     font-size: 1.5em;
 }
 
-p{
-    margin-left:1rem;
+p {
+    margin-left: 1rem;
+}
+
+.header {
+    margin-top: 1rem;
+    width: 100%;
+    display: inline-flex;
+}
+
+.logo {
+    margin-left: 1rem;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    margin-left: 1rem;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin-top: 0.7rem;
+    margin-left: 1rem;
+    overflow: hidden;
+    background-color: #333333;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #111111;
 }

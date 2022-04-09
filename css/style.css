@@ -262,6 +262,8 @@ footer {
 }
 
 .video span {
+    margin-top: 10rem;
+    margin-left: 8rem;
     padding: 1rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     animation-name: anim;

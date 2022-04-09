@@ -1,1 +1,37 @@
+#Extensiones
+*.exe
+*.msi
+*.msp
+*.msu
+*.jpg
+*.png
+*.gif
+*.bmp
+*.ico
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+*.py
+*.c
+*.cpp
+*.h
+*.hpp
+*.java
+*.log
+*.txt
+
+#Archivos especificos de la aplicacion
 conexion.js
+js/app.js
+
+#Generated files
+.trashes
+.DS_STORE
+Thumbs.db
+ehthumbs.db
+._*
+
+
+

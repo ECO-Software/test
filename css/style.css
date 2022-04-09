@@ -228,6 +228,47 @@ footer {
     color: #27bcda;
 }
 
+.video {
+    display: inline-flex;
+    width: 100%;
+}
+
+@keyframes anim {
+    0% {
+        color: #ff0;
+    }
+
+    /*Amarillo*/
+    25% {
+        color: #f80;
+    }
+
+    /*Naranja*/
+    50% {
+        color: #000;
+    }
+
+    /*Negro*/
+    75% {
+        color: #f80;
+    }
+
+    /*Otra vez naranja*/
+    100% {
+        color: #ff0;
+    }
+
+    /*Otra vez amarillo*/
+}
+
+.video span {
+    padding: 1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    animation-name: anim;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
 @media (max-width:500px) {
     .footer-menu ul {
         display: flex;
